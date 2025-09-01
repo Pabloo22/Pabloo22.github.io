@@ -6,9 +6,6 @@ title: Pablo Ariño Fernández
 first_name: Pablo
 last_name: Ariño Fernández
 
-# Pronouns (optional)
-pronouns: he/him
-
 # Status emoji
 status:
   icon: ☁️
@@ -20,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MSc Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -100,7 +97,8 @@ work:
       - Identified challenges in explainability techniques applied to the state-of-the-art deep learning models for phylogenetic trees.
       - Studied graph-based encodings for phylogenetic trees to predict key parameters and presented my results at the MCEB Congress.
       - Participated in the XVII scientific marathon as a co-author of the presentation "AI and its capacity to understand the generation and extinction of species".
-      - Supervisor: [Isabel Sanmartin](https://scholar.google.es/citations?user=HNhEAN8AAAAJ&hl=es).
+      - Supervisor: [Isabel Sanmartin]
+(https://scholar.google.es/citations?user=HNhEAN8AAAAJ&hl=es).
   - position: Research Fellow
     company_name: AI+DA Research Group
     company_url: ''
@@ -140,6 +138,7 @@ skills:
         percent: 50
         icon: ''
       - name: R
+
         description: ''
         percent: 40
         icon: brands/r-project
@@ -214,7 +213,7 @@ skills:
       - name: Chess
         description: ''
         percent: 60
-        icon: chess
+        icon: chess-pawn
       - name: Calisthenics
         description: ''
         percent: 70
@@ -237,7 +236,7 @@ awards:
     awarder: '"La Caixa" Foundation'
     icon: ''
     summary: |
-      Classified among more than one thousand candidates to participate in the trip to Milan organized by Bending Spoons.
+      I was between the 100 students selected for the "La Caixa" Foundation Postgraduate Abroad Fellowship among more than one thousand candidates from Spain and Portugal.
   - title: First Ascent Spain participant
     url: 'https://www.linkedin.com/posts/bendingspoons_congratulations-to-the-40-incredible-ascenders-ugcPost-7251572099503329281-bCFm'
     date: '2024-10-25'
@@ -289,4 +288,4 @@ awards:
 
 ## About Me
 
-Hey there! I'm Pablo Ariño Fernández, a MSc student in Machine Learning at UCL. After my master's, I plan to pursue a PhD. My research interests include Graph Neural Networks and Reinforcement Learning. My long term goal is to contribute to solving some of the most challenging problems in AI today: How to make Deep Learning models capable of generalizing out-of-distribution and learn continually.
+I'm Pablo Ariño Fernández, a MSc student in Machine Learning at UCL. After my master's, I plan to pursue a PhD. My research interests include Graph Neural Networks and Reinforcement Learning. My long term goal is to contribute to solving some of the most challenging problems in AI today: How to make Deep Learning models capable of generalizing out-of-distribution and learn continually.
