@@ -1,20 +1,17 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Pablo Ariño Fernández
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pablo
+last_name: Ariño Fernández
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☁️
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,163 +24,269 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UCL
+    url: https://www.ucl.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pablo.arino.25@ucl.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pabloo22
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/pablo-arino
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=0DK_f8EAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-3710-320X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graph Neural Networks
+  - Reinforcement Learning
+  - Out-of-Distribution Generalization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Machine Learning (ongoing)
+    institution: University College London
+    date_start: 2025-09-22
+    date_end: 2026-09-21
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Fully funded by "La Caixa" Foundation (ID 100010434). The fellowship code is "PFA25-02258F".
+  - area: B.Sc. Data Science and Artificial Intelligence
+    institution: Polytechnic University of Madrid
+    date_start: 2020-09-15
+    date_end: 2025-06-24
+    summary: |
+      GPA: 94% (best academic record award & 13 honor grades).
+
+      Thesis: _[Solving the Job Shop Scheduling Problem with Graph Neural Networks: A Customizable Reinforcement Learning Environment](https://arxiv.org/abs/2506.13781')_.
+      
+      Tutor for incoming students during the first semesters of 2021 and 2022.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://arxiv.org/abs/2506.13781'
+  - area: ERASMUS Exchange Program
+    institution: Poznań University of Technology
+    date_start: 2023-02-01
+    date_end: 2023-06-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 97.4%
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Computational Intelligence
+      - Robotics
+      - Advanced Natural Language Processing
+      - Decision Analysis
+      - Data Visualisation
+      - Polish
+  - area: ATHENS Exchange Program
+    institution: Ecole des Ponts ParisTech
+    date_start: 2022-11-01
+    date_end: 2022-11-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Coursework:
+      - Uncertainty Quantification in Numerical Simulations
+
+work:
+  - position: JAE Intro Research Fellow
+    company_name: Spanish National Research Council (CSIC)
+    company_url: 'https://sede.csic.gob.es/intro2024'
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: ''
+    summary: |
+      - Identified challenges in explainability techniques applied to the state-of-the-art deep learning models for phylogenetic trees.
+      - Studied graph-based encodings for phylogenetic trees to predict key parameters and presented my results at the MCEB Congress.
+      - Participated in the XVII scientific marathon as a co-author of the presentation "AI and its capacity to understand the generation and extinction of species".
+      - Supervisor: [Isabel Sanmartin](https://scholar.google.es/citations?user=HNhEAN8AAAAJ&hl=es).
+  - position: Research Fellow
+    company_name: AI+DA Research Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-10-31
+    summary: |
+      - Conducted a comprehensive literature review, focusing on the application of AI and Large Language Models to enhance learning and educational methods.
+      - Learnt about the science of learning through research articles and the books _Make it Stick_ and _Ultralearning_.
+      - Supervisor: [Alejandro Martín](https://scholar.google.es/citations?user=b3J9VRsAAAAJ&hl=es).
+  - position: Intern Data Scientist
+    company_name: MÁSMÓVIL Chair
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-04-01
+    date_end: 2023-02-28
+    summary: |
+      - Utilised advanced models (Transformers, XGBoost, and ensemble methods) for churn prediction using an imbalanced dataset.
+      - Applied Bayesian optimisation and genetic algorithms for hyperparameter optimization using a custom metric to adapt model selection to the company's needs.
+      - Created data analysis reports for data stored in multiple tables and more than one thousand columns in total. Some of them included visualizations with t-SNE.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Languages
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 98
+        icon: brands/python
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
+      - name: Matlab
+        description: ''
+        percent: 50
+        icon: ''
+      - name: R
+        description: ''
+        percent: 40
+        icon: brands/r-project
+      - name: C
+        description: ''
+        percent: 50
+        icon: ''
+      - name: HTML
+        description: ''
+        percent: 60
+        icon: brands/html5
+      - name: LaTeX
+        description: ''
+        percent: 90
+        icon: ''
+  - name: Software Development
+    items:
+      - name: Docker
+        description: ''
+        percent: 75
+        icon: brands/docker
+      - name: Git
+        description: ''
+        percent: 90
+        icon: brands/git
+  - name: Deep Learning
+    items:
+      - name: PyTorch
+        description: ''
+        percent: 95
+        icon: ''
+      - name: TensorFlow
+        description: ''
+        percent: 80
+        icon: ''
+      - name: Keras
+        description: ''
+        percent: 80
+        icon: ''
+      - name: PyTorch Geometric
+        description: ''
+        percent: 90
+        icon: ''
+  - name: ML Libraries
+    items:
+      - name: scikit-learn
+        description: ''
+        percent: 95
+        icon: ''
+      - name: sktime
+        description: ''
+        percent: 70
+        icon: ''
+      - name: xgboost
+        description: ''
+        percent: 70
+        icon: ''
+  - name: Optimisation
+    items:
+      - name: OR-Tools
+        description: ''
+        percent: 40
+        icon: ''
+      - name: Optuna
+        description: ''
+        percent: 50
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Chess
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: chess
+      - name: Calisthenics
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        icon: person
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: '"La Caixa" Foundation Fellow'
+    url: 'https://lacaixafoundation.org/documents/d/la-caixa-foundation/postgraduate-fellowships-abroad-results-selection-process-2025-pdf'
+    date: '2025-05-29'
+    awarder: '"La Caixa" Foundation'
+    icon: ''
+    summary: |
+      Classified among more than one thousand candidates to participate in the trip to Milan organized by Bending Spoons.
+  - title: First Ascent Spain participant
+    url: 'https://www.linkedin.com/posts/bendingspoons_congratulations-to-the-40-incredible-ascenders-ugcPost-7251572099503329281-bCFm'
+    date: '2024-10-25'
+    awarder: Bending Spoons
+    icon: ''
+    summary: |
+      Classified among more than one thousand candidates to participate in the trip to Milan organized by Bending Spoons.
+  - title: Second place in WhiteBox's Datathon
+    url: 'https://www.linkedin.com/posts/pablo-arino_el-pasado-viernes-particip%C3%A9-con-%C3%A1lvaro-laguna-activity-7199081156573573120-8wTU'
+    date: '2024-05-17'
+    awarder: WhiteBox
+    icon: ''
+    summary: |
+      Achieved 2nd place in a Kaggle-style competition focused on vehicle valuation modelling, leveraging xgboost on real-world data provided by DataMarket, with less than 3 hours to clean data, engineer features, and train the model.
+  - title: Winner of Google's Developer Student Club Datathon
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7028405266727546881/'
+    date: '2023-02-07'
+    awarder: Google Developer Student Club
+    icon: ''
+    summary: |
+      Questionnaire on a dataset with 30 questions. First place with maximum score.
+  - title: Winner of Kaggle-like competition about extracting characters from CAPTCHA images
+    url: 'https://github.com/Pabloo22/captcha_competition'
+    date: '2023-01-15'
+    awarder: Polytechnic University of Madrid
+    icon: brands/github
+    summary: |
+      It was part of the Machine Learning II course and had two phases: a preparatory phase, and an in-person phase.
+      - Used a convolutional vision transformer (ResNet + transformer encoder)
+      - Used Weights&Biases for experiment tracking
+      - Followed the project template suggested in the [Cookiecutter Data Science template](https://cookiecutter-data-science.drivendata.org/opinions/)
+  - title: Competitive Programming
+    url: ''
+    date: '2022-05-01'
+    awarder: Polytechnic University of Madrid
+    icon: ''
+    summary: |
+      Selected to represent the Polytechnic University of Madrid in the Ada Byron contests of 2021 and 2022.
+      - [Teams of 2021](https://ada-byron.es/2021/madrid/equipos.php)
+      - [Teams of 2022](https://ada-byron.es/2022/reg/madrid/equipos.php)
+  - title: Sample-based Learning Methods Certificate
+    url: 'https://www.coursera.org/account/accomplishments/verify/2J5VMYFTWZE4'
+    date: '2021-10-20'
+    awarder: University of Alberta (via Coursera)
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Part of the Reinforcement Learning specialization. Audited the other courses.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey there! I'm Pablo Ariño Fernández, a MSc student in Machine Learning at UCL. After my master's, I plan to pursue a PhD. My research interests include Graph Neural Networks and Reinforcement Learning. My long term goal is to contribute to solving some of the most challenging problems in AI today: How to make Deep Learning models capable of generalizing out-of-distribution and learn continually.
