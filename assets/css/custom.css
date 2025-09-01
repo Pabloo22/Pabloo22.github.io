@@ -1,0 +1,7 @@
+/*
+ * Target paragraphs within the section we marked with 'wide-text-content'
+ * and override their max-width.
+ */
+.wide-text-content .markdown p {
+  max-width: none;
+}

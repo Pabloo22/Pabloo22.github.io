@@ -58,12 +58,9 @@ education:
     summary: |
       GPA: 94% (best academic record award & 13 honor grades).
 
-      Thesis: _[Solving the Job Shop Scheduling Problem with Graph Neural Networks: A Customizable Reinforcement Learning Environment](https://arxiv.org/abs/2506.13781')_.
+      Thesis: _[Solving the Job Shop Scheduling Problem with Graph Neural Networks: A Customizable Reinforcement Learning Environment](https://arxiv.org/abs/2506.13781)_.
       
       Tutor for incoming students during the first semesters of 2021 and 2022.
-    button:
-      text: 'Read Thesis'
-      url: 'https://arxiv.org/abs/2506.13781'
   - area: ERASMUS Exchange Program
     institution: Poznań University of Technology
     date_start: 2023-02-01
@@ -92,7 +89,7 @@ work:
     company_url: 'https://sede.csic.gob.es/intro2024'
     company_logo: ''
     date_start: 2024-10-01
-    date_end: ''
+    date_end: '2025-04-30'
     summary: |
       - Identified challenges in explainability techniques applied to the state-of-the-art deep learning models for phylogenetic trees.
       - Studied graph-based encodings for phylogenetic trees to predict key parameters and presented my results at the MCEB Congress.
@@ -121,8 +118,11 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+# Skills
 skills:
-  - name: Languages
+  - name: Technical
+    color: '#0255eeff'
+    color_border: '#3123f0ff'
     items:
       - name: Python
         description: ''
@@ -132,78 +132,9 @@ skills:
         description: ''
         percent: 70
         icon: circle-stack
-      - name: Matlab
-        description: ''
-        percent: 50
-        icon: ''
-      - name: R
-
-        description: ''
-        percent: 40
-        icon: brands/r-project
-      - name: C
-        description: ''
-        percent: 50
-        icon: ''
-      - name: HTML
-        description: ''
-        percent: 60
-        icon: brands/html5
-      - name: LaTeX
-        description: ''
-        percent: 90
-        icon: ''
-  - name: Software Development
-    items:
-      - name: Docker
-        description: ''
-        percent: 75
-        icon: brands/docker
-      - name: Git
-        description: ''
-        percent: 90
-        icon: brands/git
-  - name: Deep Learning
-    items:
-      - name: PyTorch
-        description: ''
-        percent: 95
-        icon: ''
-      - name: TensorFlow
-        description: ''
-        percent: 80
-        icon: ''
-      - name: Keras
-        description: ''
-        percent: 80
-        icon: ''
       - name: PyTorch Geometric
         description: ''
         percent: 90
-        icon: ''
-  - name: ML Libraries
-    items:
-      - name: scikit-learn
-        description: ''
-        percent: 95
-        icon: ''
-      - name: sktime
-        description: ''
-        percent: 70
-        icon: ''
-      - name: xgboost
-        description: ''
-        percent: 70
-        icon: ''
-  - name: Optimisation
-    items:
-      - name: OR-Tools
-        description: ''
-        percent: 40
-        icon: ''
-      - name: Optuna
-        description: ''
-        percent: 50
         icon: ''
   - name: Hobbies
     color: '#eeac02'
@@ -212,11 +143,14 @@ skills:
       - name: Chess
         description: ''
         percent: 60
-        icon: chess-pawn
+        icon: ''
       - name: Calisthenics
         description: ''
         percent: 70
-        icon: person
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: ''
 
 languages:
   - name: Spanish
@@ -229,7 +163,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: '"La Caixa" Foundation Fellow'
+  - title: '"La Caixa" Foundation fellow'
     url: 'https://lacaixafoundation.org/documents/d/la-caixa-foundation/postgraduate-fellowships-abroad-results-selection-process-2025-pdf'
     date: '2025-05-29'
     awarder: '"La Caixa" Foundation'

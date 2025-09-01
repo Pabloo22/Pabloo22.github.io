@@ -28,7 +28,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: dark.svg
           filters:
             brightness: 1.0
           size: cover
@@ -39,13 +39,18 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        In 2016, Go experts deemed AlphaGo’s move 37 “creative” and “unique”, adjectives previously reserved only for human intelligence. This famous move, played in the second game against Lee Sedol, the Go world champion, revealed to me artificial intelligence’s potential to discover new knowledge beyond human intuition. Since then, as breakthroughs keep arriving, I have become even more passionate about this field. Some of them, such as AlphaFold, have advanced science in ways that merited a Nobel Prize. After observing these revolutionary advancements, one thing became clear – I did not want to be a mere spectator; I wanted to be part of one of these breakthroughs.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        As Richard Hamming suggested in his famous talk, “You and Your Research”, choosing the right problem to work on is crucial. Great scientists spend significant time thinking about and identifying important issues. However, committing to a specific research direction feels risky. Each year, an exponentially growing number of papers are published. Architectures or trends that are state-of-the-art today might become obsolete tomorrow. That is why **focusing on fundamentals is essential**.
+
+        This principled thinking is behind the Alberta Plan for AI research, making it especially compelling for me. Richard Sutton, Michael Bowling, and Patrick M. Pilarski described their plan as “both classical and contrarian, and radical in the sense of going to the root”. They propose a direction based on building agents capable of adapting to unseen situations and planning at multiple abstraction levels—features still lacking in most current systems. This plan proposes **reinforcement learning** (RL) as the natural interface to solve these challenges. Within this framework, the agent interacts with an environment instead of learning from a fixed dataset, enabling the discovery of entirely new strategies—just as AlphaGo did.
+
+        Another of my interests is **geometric deep learning** (GDL). This mathematical framework is inspired by Felix Klein's Erlangen Program, which unified different branches of geometry. Similarly, GDL explicitly defines the relationships between existing neural network architectures. For instance, **graph neural networks** (GNNs) can be considered a generalisation of convolutional neural networks (CNNs) or transformers with additional geometric structure. This theory prevents re-inventing the same concepts and provides a constructive method for designing future models based on first principles. It emphasises the importance of taking advantage of the invariances (symmetries) present in the data to counter the famous curse of dimensionality.
+
+        I believe the concepts introduced by GDL can be very helpful in solving the Alberta Plan’s first steps. In particular, current models suffer from “catastrophic forgetting” when applied to continual learning settings. Understanding deep learning’s core principles can guide the development of more adaptable architectures and learning methods.
     design:
       columns: '1'
+      css_class: 'wide-text-content'
   - block: collection
     id: papers
     content:
