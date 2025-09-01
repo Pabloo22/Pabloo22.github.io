@@ -42,7 +42,7 @@ profiles:
 interests:
   - Graph Neural Networks
   - Reinforcement Learning
-  - Out-of-Distribution Generalization
+  - Out-of-Distribution Generalisation
 
 education:
   - area: M.Sc. Machine Learning (ongoing)
@@ -97,8 +97,7 @@ work:
       - Identified challenges in explainability techniques applied to the state-of-the-art deep learning models for phylogenetic trees.
       - Studied graph-based encodings for phylogenetic trees to predict key parameters and presented my results at the MCEB Congress.
       - Participated in the XVII scientific marathon as a co-author of the presentation "AI and its capacity to understand the generation and extinction of species".
-      - Supervisor: [Isabel Sanmartin]
-(https://scholar.google.es/citations?user=HNhEAN8AAAAJ&hl=es).
+      - Supervisor: [Isabel Sanmartin](https://scholar.google.es/citations?user=HNhEAN8AAAAJ&hl=es).
   - position: Research Fellow
     company_name: AI+DA Research Group
     company_url: ''
