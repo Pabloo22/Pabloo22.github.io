@@ -10,6 +10,7 @@ tags:
   - NumPy
   - From Scratch
   - Educational
+share: false
 ---
 
 Created the Sequential model with Dense, Conv2D, Dropout, and Flatten layers.

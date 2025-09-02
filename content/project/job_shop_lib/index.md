@@ -9,6 +9,7 @@ tags:
   - Reinforcement Learning
   - Constraint Programming
   - Simulated Annealing
+share: false
 ---
 
 A modular Python library for creating, solving, and visualizing job shop scheduling problems.

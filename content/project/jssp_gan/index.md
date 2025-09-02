@@ -12,6 +12,7 @@ tags:
   - Graph Neural Networks
   - Generative Adversarial Network
   - Research
+share: false
 ---
 
 Wrote a research article draft for the Data Science Project course.
