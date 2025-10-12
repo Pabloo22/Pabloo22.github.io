@@ -43,9 +43,10 @@ profiles:
     url: https://orcid.org/0009-0009-3710-320X
 
 interests:
-  - Graph Neural Networks
-  - Reinforcement Learning
-  - Out-of-Distribution Generalisation
+  - Reinforcement Learning (Open-Ended Learning, Temporal Abstractions)
+  - Continual Deep Learning
+  - Meta-Learning
+  - Out-of-Distribution Generalisation (Neural Algorithmic Reasoning)
 
 education:
   - area: M.Sc. Machine Learning (ongoing)
