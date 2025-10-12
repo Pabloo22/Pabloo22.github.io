@@ -45,9 +45,6 @@ sections:
 
         This principled thinking is behind the Alberta Plan for AI research, making it especially compelling for me. Richard Sutton, Michael Bowling, and Patrick M. Pilarski described their plan as “both classical and contrarian, and radical in the sense of going to the root”. They propose a direction based on building agents capable of adapting to unseen situations and planning at multiple abstraction levels—features still lacking in most current systems. This plan proposes **reinforcement learning** (RL) as the natural interface to solve these challenges. Within this framework, the agent interacts with an environment instead of learning from a fixed dataset, enabling the discovery of entirely new strategies—just as AlphaGo did.
 
-        Another of my interests is **geometric deep learning** (GDL). This mathematical framework is inspired by Felix Klein's Erlangen Program, which unified different branches of geometry. Similarly, GDL explicitly defines the relationships between existing neural network architectures. For instance, **graph neural networks** (GNNs) can be considered a generalisation of convolutional neural networks (CNNs) or transformers with additional geometric structure. This theory prevents re-inventing the same concepts and provides a constructive method for designing future models based on first principles. It emphasises the importance of taking advantage of the invariances (symmetries) present in the data to counter the famous curse of dimensionality.
-
-        I believe the concepts introduced by GDL can be very helpful in solving the Alberta Plan’s first steps. In particular, current models suffer from “catastrophic forgetting” when applied to continual learning settings. Understanding deep learning’s core principles can guide the development of more adaptable architectures and learning methods.
     design:
       columns: '1'
       css_class: 'wide-text-content'

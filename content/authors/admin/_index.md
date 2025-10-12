@@ -225,4 +225,4 @@ awards:
 
 ## About Me
 
-I'm Pablo Ariño Fernández, a MSc student in Machine Learning at UCL. After my master's, I plan to pursue a PhD. My research interests include Graph Neural Networks and Reinforcement Learning. My long term goal is to contribute to solving some of the most challenging problems in AI today: How to make Deep Learning models capable of generalizing out-of-distribution and learn continually.
+I'm Pablo Ariño Fernández, a MSc student in Machine Learning at UCL. My long term goal is to contribute to solving some of the most fundamental problems in AI today: How to make deep-learning-based agents capable of learning continually, planning, and generalising to unseen situations. Continual learning involves solving challenges such as catastrophic forgetting in a big and potentially open-ended world. I am particularly interested in reinforcement learning as a natural framework to achieve these goals.
