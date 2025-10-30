@@ -39,11 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        In 2016, Go experts deemed AlphaGo’s move 37 “creative” and “unique”, adjectives previously reserved only for human intelligence. This famous move, played in the second game against Lee Sedol, the Go world champion, revealed to me artificial intelligence’s potential to discover new knowledge beyond human intuition. Since then, as breakthroughs keep arriving, I have become even more passionate about this field. Some of them, such as AlphaFold, have advanced science in ways that merited a Nobel Prize. After observing these revolutionary advancements, one thing became clear – I did not want to be a mere spectator; I wanted to be part of one of these breakthroughs.
-
-        As Richard Hamming suggested in his famous talk, “You and Your Research”, choosing the right problem to work on is crucial. Great scientists spend significant time thinking about and identifying important issues. However, committing to a specific research direction feels risky. Each year, an exponentially growing number of papers are published. Architectures or trends that are state-of-the-art today might become obsolete tomorrow. That is why **focusing on fundamentals is essential**.
-
-        This principled thinking is behind the Alberta Plan for AI research, making it especially compelling for me. Richard Sutton, Michael Bowling, and Patrick M. Pilarski described their plan as “both classical and contrarian, and radical in the sense of going to the root”. They propose a direction based on building agents capable of adapting to unseen situations and planning at multiple abstraction levels—features still lacking in most current systems. This plan proposes **reinforcement learning** (RL) as the natural interface to solve these challenges. Within this framework, the agent interacts with an environment instead of learning from a fixed dataset, enabling the discovery of entirely new strategies—just as AlphaGo did.
+        As Richard Hamming suggested in his famous talk, “You and Your Research”, choosing the right problem to work on is crucial. Great scientists spend significant time thinking about and identifying important issues. However, committing to a specific research direction feels risky. Each year, an exponentially growing number of papers are published. Architectures or trends that are state-of-the-art today might become obsolete tomorrow. That is why **my focus is on the fundamental questions of AI**.
 
     design:
       columns: '1'
