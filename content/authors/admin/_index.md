@@ -34,9 +34,9 @@ profiles:
     url: https://github.com/pabloo22
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/pablo-arino
-  - icon: brands/youtube
-    url: https://www.youtube.com/@thepablo22
-    label: YouTube
+  #- icon: brands/youtube
+   # url: https://www.youtube.com/@thepablo22
+   # label: YouTube
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=0DK_f8EAAAAJ&hl=en
   - icon: academicons/orcid
