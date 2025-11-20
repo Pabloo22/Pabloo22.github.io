@@ -224,5 +224,4 @@ awards:
 ---
 
 ## About Me
-
-I'm Pablo Ariño Fernández, a MSc student in Machine Learning at UCL. My long term goal is to contribute to solving some of the most fundamental problems in AI today: How to make deep-learning-based agents capable of learning continually, planning, and generalising to unseen situations. Continual learning involves solving challenges such as catastrophic forgetting in a big and potentially open-ended world. I am particularly interested in reinforcement learning as a natural framework to achieve these goals.
+I'm Pablo Ariño Fernández, an MSc student in Machine Learning at UCL. My long-term goal is to contribute to solving some of the most fundamental problems in AI today: how to make deep-learning-based agents capable of continual learning, planning, and generalisation in unseen situations.
